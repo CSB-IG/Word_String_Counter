@@ -1,2 +1,4 @@
 # Word_String_Counter
-Perl_Parser_and_Counter
+Perl Text Parser and Counter
+# Fasta_Freq
+Perl Fasta Contig Frequency counter
